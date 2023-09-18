@@ -1,6 +1,17 @@
-### Hi there 👋
 
-<!--
+Meu Boas vindas ao meu perfil 💙
+nome é Karini Souza Pereira
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você entrar em contato comigo 📫
+
+p.karini@escola.pr.gov.br
+
+
+
 **PereiraKarini/PereiraKarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
